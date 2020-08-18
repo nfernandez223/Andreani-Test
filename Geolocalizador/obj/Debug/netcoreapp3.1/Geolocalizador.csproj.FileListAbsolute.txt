@@ -1,0 +1,17 @@
+C:\Users\Nferandez\source\repos\Geolocalizador\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Nferandez\source\repos\Geolocalizador\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Nferandez\source\repos\Geolocalizador\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Nferandez\source\repos\Geolocalizador\bin\Debug\netcoreapp3.1\Geolocalizador.exe
+C:\Users\Nferandez\source\repos\Geolocalizador\bin\Debug\netcoreapp3.1\Geolocalizador.deps.json
+C:\Users\Nferandez\source\repos\Geolocalizador\bin\Debug\netcoreapp3.1\Geolocalizador.runtimeconfig.json
+C:\Users\Nferandez\source\repos\Geolocalizador\bin\Debug\netcoreapp3.1\Geolocalizador.runtimeconfig.dev.json
+C:\Users\Nferandez\source\repos\Geolocalizador\bin\Debug\netcoreapp3.1\Geolocalizador.dll
+C:\Users\Nferandez\source\repos\Geolocalizador\bin\Debug\netcoreapp3.1\Geolocalizador.pdb
+C:\Users\Nferandez\source\repos\Geolocalizador\obj\Debug\netcoreapp3.1\Geolocalizador.csprojAssemblyReference.cache
+C:\Users\Nferandez\source\repos\Geolocalizador\obj\Debug\netcoreapp3.1\staticwebassets\Geolocalizador.StaticWebAssets.Manifest.cache
+C:\Users\Nferandez\source\repos\Geolocalizador\obj\Debug\netcoreapp3.1\staticwebassets\Geolocalizador.StaticWebAssets.xml
+C:\Users\Nferandez\source\repos\Geolocalizador\obj\Debug\netcoreapp3.1\Geolocalizador.AssemblyInfoInputs.cache
+C:\Users\Nferandez\source\repos\Geolocalizador\obj\Debug\netcoreapp3.1\Geolocalizador.AssemblyInfo.cs
+C:\Users\Nferandez\source\repos\Geolocalizador\obj\Debug\netcoreapp3.1\Geolocalizador.RazorTargetAssemblyInfo.cache
+C:\Users\Nferandez\source\repos\Geolocalizador\obj\Debug\netcoreapp3.1\Geolocalizador.dll
+C:\Users\Nferandez\source\repos\Geolocalizador\obj\Debug\netcoreapp3.1\Geolocalizador.pdb

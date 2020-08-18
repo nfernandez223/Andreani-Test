@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGeo", "ApiGeo.csproj", "{456DAC88-C4FB-4CC9-A6B6-5ED9958DFD0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geolocalizador", "..\Users\Nferandez\source\repos\Geolocalizador\Geolocalizador.csproj", "{1B93C3CE-0DC6-4C3E-BD7A-55C6F5CC58A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{456DAC88-C4FB-4CC9-A6B6-5ED9958DFD0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456DAC88-C4FB-4CC9-A6B6-5ED9958DFD0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456DAC88-C4FB-4CC9-A6B6-5ED9958DFD0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456DAC88-C4FB-4CC9-A6B6-5ED9958DFD0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B93C3CE-0DC6-4C3E-BD7A-55C6F5CC58A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B93C3CE-0DC6-4C3E-BD7A-55C6F5CC58A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B93C3CE-0DC6-4C3E-BD7A-55C6F5CC58A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B93C3CE-0DC6-4C3E-BD7A-55C6F5CC58A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E773EA2-0AD4-46DD-A6F1-DD57C29ABE1D}
+	EndGlobalSection
+EndGlobal
